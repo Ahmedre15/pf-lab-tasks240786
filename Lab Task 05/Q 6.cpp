@@ -1,4 +1,4 @@
-#include<iostream>
+#include<stdio.h>
 int main(){
 	int number , sum;
 	printf("ENTER A NUMBER (0 TO 15)\n");
