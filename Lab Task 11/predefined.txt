@@ -1,0 +1,3 @@
+Hello, this is a predefined file.
+It contains some sample content.
+Each line will be displayed with its number.
